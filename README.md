@@ -9,20 +9,20 @@
 
 * Who are the founders of the company? The founders were Andrew Kortina and Iqram Magdon-Ismail
 
-* How did the idea for the company (or project) come about? The company came about because the founders Andrew and Iqram wanted to pay each other without having to exchange cash or write a check. The first prototype started over sms
+* How did the idea for the company (or project) come about? The company came about because the founders Andrew and Iqram wanted to pay each other without having to exchange cash or write a check. The first prototype started over sms.
 
-* How is the company funded? How much funding have they received? Venmo has now been owned by paypal since 2013. While it does have several revenue sources, Venmo makes money by transaction fees, partnerships and selling transaction data. In may 2010, they raised about 1.2 million of seed money by RRE Ventures. It was then acquired by Braintree in 2012 for 26.2 million. And in 2013, Braintree was acquired by Paypal for 800 Million
+* How is the company funded? How much funding have they received? Venmo has now been owned by paypal since 2013. While it does have several revenue sources, Venmo makes money by transaction fees, partnerships and selling transaction data. In may 2010, they raised about 1.2 million of seed money by RRE Ventures. It was then acquired by Braintree in 2012 for 26.2 million. And in 2013, Braintree was acquired by Paypal for 800 Million.
 
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
+* What specific financial problem is the company or project trying to solve? Although Venmo has security precautions in place, there are still loopholes that fraudsters and scammers take advantage of. 
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers? Venmo was intended to target the younger crowds who were splitting bills between their friends. Venmo has generated about 2.3 million downloads per month within the last 6 months. The younger demographoc is about 83% of the people that use that app between the ages of 18 and 34.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?) The difference between Venmo and its competitors is that it does not charge their users a fee to send or receive money. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.) Venmo is using a wide range of technologies for their app. The list contains Javascript, Python, jQuery, React, PHP, Java, NGINX, TypeScript, CSS 3, C#, Ruby, SHell, Golang, Swift, C++, C lang, Objective-C, Moment.js, Backbone.js, PowerShell, Perl, Lua, Amazon Web Service, Amazon CloudFront, and Apache Thrift.
 
 
 ## Landscape
@@ -60,3 +60,7 @@ https://www.businessofapps.com/data/venmo-statistics/#:~:text=Venmo%20started%20
 https://www.gobankingrates.com/banking/mobile/how-does-vemmo-make-money/#
 
 https://en.wikipedia.org/wiki/Venmo#:~:text=In%20May%202010%2C%20the%20company,business%20transactions%20on%20the%20platform.
+
+https://rightmetric.co/insight-library/how-venmo-reaches-millennials-gen-zers-on-social-media#:~:text=Venmo%20is%20a%20mobile%20payment,splitting%20bills%20with%20their%20friends.
+
+https://stackshare.io/venmo/venmo
