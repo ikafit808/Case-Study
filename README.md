@@ -27,11 +27,11 @@
 
 ## Landscape
 
-* What domain of the financial industry is the company in?
+* What domain of the financial industry is the company in? Venmo is in the Payment/Billing market of the financial industry.
 
-* What have been the major trends and innovations of this domain over the last 5–10 years?
+* What have been the major trends and innovations of this domain over the last 5–10 years? The biggest trends or innovations with venmo is the ease of use. It is very simple to use and allows peers to send and recieve money in a very simple and uncomplicated way. Also, the convienance of not having to go to a bank to transfer money or have to get cash makes it very appealing to the customer because it saves time and energy.
 
-* What are the other major companies in this domain?
+* What are the other major companies in this domain? Some other companies that are in the same space include applications like Cashapp, Zelle, Paypal, Square, Stripe, and Apple Pay to name a few.
 
 
 ## Results
