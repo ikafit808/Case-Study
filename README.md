@@ -36,11 +36,11 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of this company so far? This has been a very effecient product for businesses allowing them to link their business accounts to the app. This allows for transactions to be processed quickly and easily, with funds being able to be transffered directly into your account. Venno has also increased business conversions because of the ease of use this product brings.
+  
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? Venmo measures there success by the market, revenue brought in, usage of the app, monthly active users, user base and reviews. Based on these metrics Venmo has done better every year and continues to grow. They went from 3 million users in 2015 to over 70 million in 2021.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
+* How is your company performing relative to competitors in the same domain? All applications in this domain offer different services and unique features. Depending on what you are looking for is going to determine which product is best for you to use. If you looking at transactions between peers, family and friends, then Venmo is the best on the market.
 
 
 ## Recommendations
@@ -64,3 +64,5 @@ https://en.wikipedia.org/wiki/Venmo#:~:text=In%20May%202010%2C%20the%20company,b
 https://rightmetric.co/insight-library/how-venmo-reaches-millennials-gen-zers-on-social-media#:~:text=Venmo%20is%20a%20mobile%20payment,splitting%20bills%20with%20their%20friends.
 
 https://stackshare.io/venmo/venmo
+
+https://helplama.com/venmo-revenue-and-usage-stats/#:~:text=Venmo%20market%20share%20in%20the,15.3%20million%20in%20September%202022.
