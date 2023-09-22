@@ -49,9 +49,9 @@
 
 * Why do you think that offering this product or service would benefit the company? This would benefit the company because 1) it will bring in more consumers and 2) it will bring in more revenue to the company beacuse there is more people using the services.
 
-* What technologies would this additional product or service utilize?
+* What technologies would this additional product or service utilize? Venmo would utilize Automated Clearing House (ACH) payment system to speed payments up between Banks in the United States.
 
-* Why are these technologies appropriate for your solution?
+* Why are these technologies appropriate for your solution? The reasonn why this is important is so that Venmo has a way to instantly deposit funds without having a fee.
 
 ## Works Cited
 
