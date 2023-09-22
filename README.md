@@ -45,9 +45,9 @@
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) In the scope of venmo I would recommend same day deposits without a fee like zelle offers. Instant deposits are very convenient and to be able to do that without getting a fee will attract more consumers. Also, raising the daily or weekly limit will allow for more transaction. And depending on the limit they need to verify certain information before the transaction can go through to prevent fraud or illegal transactions. 
 
-* Why do you think that offering this product or service would benefit the company?
+* Why do you think that offering this product or service would benefit the company? This would benefit the company because 1) it will bring in more consumers and 2) it will bring in more revenue to the company beacuse there is more people using the services.
 
 * What technologies would this additional product or service utilize?
 
