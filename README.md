@@ -40,7 +40,7 @@
   
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics? Venmo measures there success by the market, revenue brought in, usage of the app, monthly active users, user base and reviews. Based on these metrics Venmo has done better every year and continues to grow. They went from 3 million users in 2015 to over 70 million in 2021.
 
-* How is your company performing relative to competitors in the same domain? All applications in this domain offer different services and unique features. Depending on what you are looking for is going to determine which product is best for you to use. If you looking at transactions between peers, family and friends, then Venmo is the best on the market.
+* How is your company performing relative to competitors in the same domain? All applications in this domain offer different services and unique features. Depending on what you are looking for is going to determine which product is best for you to use. If you are looking at transactions between peers, family and friends, then Venmo is the best on the market.
 
 
 ## Recommendations
